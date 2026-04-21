@@ -159,7 +159,7 @@ export PYTHONPATH=$PYTHONPATH:$(pwd)
 
 ## 👩‍💻 Author
 
-**Humayera Islam**  
+**Farhan Quadir**  
 Postdoctoral Researcher, University of Chicago  
 
 ---
