@@ -12,6 +12,16 @@ This project implements an **enterprise-grade Retrieval-Augmented Generation (RA
 - 🤖 LLM-based reasoning with hybrid routing  
 
 ---
+## Skills Demonstrated
+
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Search
+- FAISS
+- Structured-to-Text Transformation
+- Grounded Answer Generation
+- Hybrid Retrieval
+- AI System Design
 
 ## 🧠 Key Capabilities
 
