@@ -43,6 +43,27 @@ Each answer includes:
 
 ## 🏗️ Architecture
 
+SQL Tables
+     ↓
+Semantic Context Builder
+     ↓
+Embeddings
+     ↓
+FAISS Index
+
+Business Documents
+     ↓
+Chunking
+     ↓
+Embeddings
+     ↓
+FAISS Index
+
+User Query
+     ↓
+Hybrid Retrieval
+     ↓
+Grounded Response
 ```
 User Question → Router → (SQL + Docs) → LLM → Answer
 ```
