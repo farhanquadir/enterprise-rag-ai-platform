@@ -164,7 +164,11 @@ export PYTHONPATH=$PYTHONPATH:$(pwd)
 - Add LangChain / LlamaIndex orchestration  
 - Deploy UI (Streamlit / React)  
 - Add logging, monitoring, and access control  
-
+- Production deployment
+- Authentication
+- Monitoring
+- LLM evaluation frameworks
+- Cloud infrastructure
 ---
 
 ## 👩‍💻 Author
