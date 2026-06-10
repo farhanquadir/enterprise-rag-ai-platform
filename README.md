@@ -43,7 +43,7 @@ Each answer includes:
 
 ## 🏗️ Architecture
 
-SQL Tables
+``SQL Tables
      ↓
 Semantic Context Builder
      ↓
@@ -64,6 +64,7 @@ User Query
 Hybrid Retrieval
      ↓
 Grounded Response
+```
 ```
 User Question → Router → (SQL + Docs) → LLM → Answer
 ```
