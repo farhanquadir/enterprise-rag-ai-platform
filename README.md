@@ -1,5 +1,5 @@
 # 🚀 Enterprise RAG AI Platform  
-*A Hybrid Retrieval-Augmented Generation System over Structured + Unstructured Data*
+A portfolio project demonstrating *A Hybrid Retrieval-Augmented Generation System over Structured + Unstructured Data*
 
 ---
 
